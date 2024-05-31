@@ -1,4 +1,5 @@
-> [!info] **Guide Version: 1.0**, Last Updated: 5/30/2024
+> **Guide Version: 1.0**, Last Updated: 5/30/2024
+>
 > Tested on MacMini M2 2024, Macbook Air M2 2023
 > 
 > EdenXI Installation Guide Created By: @DungeonGoat
@@ -8,27 +9,27 @@
 > - Linkshell: Ragamuffins of Eden
 > 	- Discord https://discord.gg/kpNDqZfd
 
-> [!info] EdenXI 
+> EdenXI 
 > Website: https://edenxi.com
 Discord: https://discord.com/invite/S3EAWr2Jec
 ## Index
-[[#1. EdenXI Files]]
-[[#2. Homebrew Install]]
-[[#3. Whisky Install]]
-[[#4. Whisky Configuration]]
-[[#5. EdenXI Installation]]
-[[#6. Whisky/EdenXI Pins Setup]]
-[[#7. Configure EdenXI Server Hairpin]]
-[[#8. EdenXI Window Configuration]]
-[[#9. Controller Configuration]]
-[[#10. Playing EdenXI]]
+- #1. EdenXI Files
+- #2. Homebrew Install
+- #3. Whisky Install
+- #4. Whisky Configuration
+- #5. EdenXI Installation
+- #6. Whisky/EdenXI Pins Setup
+- #7. Configure EdenXI Server Hairpin
+- #8. EdenXI Window Configuration
+- #9. Controller Configuration
+- #10. Playing EdenXI
 
 ---
 ### 1. EdenXI Files
 Go to: https://edenxi.com/install, Download the `Alternative Download` files.
 ![](_attachments/Pastedimage20240528112218.png)
 
->[!info] Note
+>Note
 ![](_attachments/Pastedimage20240530080436.png)
 >This will open a Google Drive download.
 >It will download as a .zip. It should auto-unzip.
@@ -51,7 +52,7 @@ Press ENTER to continue and agree to the XCode license.
 >sudo xcodebuild -license accept
 >```
 
->[!info] Note
+>Note
 >If you already have Homebrew installed, be sure to `brew update`
 
 ### 3. Whisky Install
@@ -67,7 +68,7 @@ Open Whisky with either:
 	2. Spotlight: CMD + Space -> type Whisky
 ![](_attachments/Pastedimage20240530084811.png|50]]
 
-> [!info] Note
+> Note
 > Click `Open` if this dialogue pops up.
 ![](_attachments/Pastedimage20240530084936.png)
 
@@ -129,7 +130,7 @@ Click Finish
 Verify your folder structure has `Eden` at the root of C:\
 ![](_attachments/Pastedimage20240530113152.png)
 ### 6. Whisky/EdenXI Pins Setup
-> [!info] Note: If you see Ashita pinned, right click and Unpin it.
+> Note: If you see Ashita pinned, right click and Unpin it.
 ![](_attachments/Pastedimage20240530102249.png)
 
 1. Create `Config` Pin
@@ -169,7 +170,7 @@ Right click and Run the pinned Config
 ![](_attachments/Pastedimage20240530103625.png)
 
 Change the window mode to `Windowed mode`
-> [!info] Note: Full Screen mode is not supported.
+> Note: Full Screen mode is not supported.
 
 ![](_attachments/Pastedimage20240530103653.png)
 
@@ -203,4 +204,4 @@ If you see this, you're on the right path. Otherwise, you messed up somewhere.
 Once logged in the game will launch:
 ![](_attachments/Pastedimage20240530112729.png)
 
-> [!info] Note: The audio may be janky.
+> Note: The audio may be janky.
