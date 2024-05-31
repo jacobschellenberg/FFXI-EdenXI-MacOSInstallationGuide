@@ -1,7 +1,7 @@
 > **Guide Version: 1.0**, Last Updated: 5/30/2024
 >
-> Tested on MacMini M2 2024, Macbook Air M2 2023
-> 
+> Tested on MacMini M2 2023, Macbook Air M2 2022
+ 
 > EdenXI Installation Guide Created By: @DungeonGoat
 > - Discord: @DungeonGoat:7084
 > - Instagram: https://www.instagram.com/dungeongoat/
@@ -12,17 +12,18 @@
 > EdenXI 
 > Website: https://edenxi.com
 Discord: https://discord.com/invite/S3EAWr2Jec
+
 ## Index
-- #1. EdenXI Files
-- #2. Homebrew Install
-- #3. Whisky Install
-- #4. Whisky Configuration
-- #5. EdenXI Installation
-- #6. Whisky/EdenXI Pins Setup
-- #7. Configure EdenXI Server Hairpin
-- #8. EdenXI Window Configuration
-- #9. Controller Configuration
-- #10. Playing EdenXI
+1. EdenXI Files
+2. Homebrew Install
+3. Whisky Install
+4. Whisky Configuration
+5. EdenXI Installation
+6. Whisky/EdenXI Pins Setup
+7. Configure EdenXI Server Hairpin
+8. EdenXI Window Configuration
+9. Controller Configuration
+10. Playing EdenXI
 
 ---
 ### 1. EdenXI Files
