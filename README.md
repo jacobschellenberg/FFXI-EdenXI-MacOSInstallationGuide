@@ -66,8 +66,9 @@ brew install --cask whisky
 ![](_attachments/Pastedimage20240530084717.png)
 
 Open Whisky with either:
-	1. Finder -> Applications -> Whisky
-	2. Spotlight: CMD + Space -> type Whisky
+- Finder -> Applications -> Whisky
+- Spotlight: CMD + Space -> type Whisky
+
 ![](_attachments/Pastedimage20240530084811.png)
 
 > Note:
