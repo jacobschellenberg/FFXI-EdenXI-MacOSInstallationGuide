@@ -32,7 +32,7 @@ Discord: https://discord.com/invite/S3EAWr2Jec
 Go to: https://edenxi.com/install, Download the `Alternative Download` files.
 ![](_attachments/Pastedimage20240528112218.png)
 
->Note
+>Note:
 ![](_attachments/Pastedimage20240530080436.png)
 >This will open a Google Drive download.
 >It will download as a .zip. It should auto-unzip.
@@ -48,14 +48,14 @@ Using Terminal: Install Homebrew:  https://brew.sh
 Press ENTER to continue and agree to the XCode license.
 ![](_attachments/Pastedimage20240530084216.png)
 
->[!Note]
+>Note:
 >Homebrew may ask you to accept an XCode license agreement:
 >Use this command in the Terminal to accept: 
 >``` Terminal
 >sudo xcodebuild -license accept
 >```
 
->Note
+>Note:
 >If you already have Homebrew installed, be sure to `brew update`
 
 ### 3. Whisky Install
@@ -69,9 +69,9 @@ brew install --cask whisky
 Open Whisky with either:
 	1. Finder -> Applications -> Whisky
 	2. Spotlight: CMD + Space -> type Whisky
-![](_attachments/Pastedimage20240530084811.png|50]]
+![](_attachments/Pastedimage20240530084811.png)
 
-> Note
+> Note:
 > Click `Open` if this dialogue pops up.
 ![](_attachments/Pastedimage20240530084936.png)
 
@@ -132,29 +132,33 @@ Click Finish
 
 Verify your folder structure has `Eden` at the root of C:\
 ![](_attachments/Pastedimage20240530113152.png)
+
 ### 6. Whisky/EdenXI Pins Setup
 > Note: If you see Ashita pinned, right click and Unpin it.
-![](_attachments/Pastedimage20240530102249.png)
+> ![](_attachments/Pastedimage20240530102249.png)
 
-1. Create `Config` Pin
-Click the + button to create a new pin called `Config`
-Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FANTASY XI Config.exe`
-Click Pin to confirm.
+1. Create a Pin called `Config`
+- Click the + button to create a new pin called `Config`
+- Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FANTASY XI Config.exe`
+- Click Pin to confirm.
 ![](Screenshot2024-05-30at102416AM.png)
 
-2. Create `Controller Config` pint
-Click the + button to create a new pin called `Controller Config`
-Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FFXiPadConfig.exe`
-Click Pin to confirm.
+> Note:
+> Click the Refresh symbol to refresh the Whisky UI and show the icons. 
+
+2. Create a Pin called `Controller Config`
+- Click the + button to create a new pin called `Controller Config`
+- Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FFXiPadConfig.exe`
+- Click Pin to confirm.
 ![](_attachments/Pastedimage20240530102809.png)
 
-3. Create the `EdenXI` game launcher pin
-Click the + button to create a new pin called `EdenXI`
-Click Browse and navigate to `Eden/Ashita/ffxi-bootmod/xiloader.exe`
-Click Pin to confirm.
+3. Create a Pin called `EdenXI`
+- Click the + button to create a new pin called `EdenXI`
+- Click Browse and navigate to `Eden/Ashita/ffxi-bootmod/xiloader.exe`
+- Click Pin to confirm.
 ![](_attachments/Pastedimage20240530103015.png)
 
-Click the Refresh symbol to refresh the Whisky UI and show the icons. You should have the these 3.
+You should end up with these 3 pins.
 ![](_attachments/Pastedimage20240530103305.png)
 
 ### 7. Configure EdenXI Server Hairpin
