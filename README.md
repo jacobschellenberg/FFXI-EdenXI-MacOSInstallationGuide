@@ -6,6 +6,7 @@
 > - FFXI: Dungeongoat, Hiddenmagik
 > - Linkshell: Ragamuffins of Eden
 > 	- Discord https://discord.gg/kpNDqZfd
+> - Ko-Fi Donations: https://ko-fi.com/dungeongoat
 
 > EdenXI 
 > Website: https://edenxi.com
