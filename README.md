@@ -26,7 +26,7 @@ Discord: https://discord.com/invite/S3EAWr2Jec
 ---
 ### 1. EdenXI Files
 Go to: https://edenxi.com/install, Download the `Alternative Download` files.
-![image](_attachments/Pasted image 20240528112218.png)
+![image](_attachments/Pasted%20image%2020240528112218.png)
 
 >[!info] Note
 ![[Pasted image 20240530080436.png|250]]
