@@ -10,7 +10,7 @@
 
 > EdenXI 
 > Website: https://edenxi.com
-Discord: https://discord.com/invite/S3EAWr2Jec
+> Discord: https://discord.com/invite/S3EAWr2Jec
 
 ## Index
 1. [EdenXI Files](#1-edenxi-files)
