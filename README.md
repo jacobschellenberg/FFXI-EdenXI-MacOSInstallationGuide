@@ -103,7 +103,7 @@ Check the ToS and Install. This may come up a few times and takes a while to com
 
 ### 5. EdenXI Installation
 Click Run -> Select Installer.exe from the EdenXI download.
-![[Screenshot 2024-05-30 at 10.03.28 AM.png)
+![](_attachments/Screenshot2024-05-30at100328AM.png)
 
 Allow if asked.
 ![](_attachments/Pastedimage20240530100827.png)
