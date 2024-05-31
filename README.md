@@ -83,9 +83,10 @@ Click Next to install dependencies.
 ![](_attachments/Pastedimage20240530085604.png)
 
 2. Set the follow settings, then press Create. This may take a while to complete.
-Bottle Name: EdenXI
-Windows Version: Windows 10
-Bottle Path: Leave as default
+- Bottle Name: EdenXI
+- Windows Version: Windows 10
+- Bottle Path: Leave as default
+
 ![](_attachments/Pastedimage20240530085637.png)
 
 3. Click Winetricks
