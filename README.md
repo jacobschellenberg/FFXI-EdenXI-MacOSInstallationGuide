@@ -9,8 +9,8 @@
 > - Ko-Fi Donations: https://ko-fi.com/dungeongoat
 
 > EdenXI 
-> Website: https://edenxi.com
-> Discord: https://discord.com/invite/S3EAWr2Jec
+> - Website: https://edenxi.com
+> - Discord: https://discord.com/invite/S3EAWr2Jec
 
 ## Index
 1. [EdenXI Files](#1-edenxi-files)
