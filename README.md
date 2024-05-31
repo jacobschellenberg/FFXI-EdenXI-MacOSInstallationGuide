@@ -26,15 +26,15 @@ Discord: https://discord.com/invite/S3EAWr2Jec
 ---
 ### 1. EdenXI Files
 Go to: https://edenxi.com/install, Download the `Alternative Download` files.
-![image](_attachments/Pasted%20image%2020240528112218.png)
+![](_attachments/Pastedimage20240528112218.png)
 
 >[!info] Note
-![[Pasted image 20240530080436.png|250]]
+![](_attachments/Pastedimage20240530080436.png)
 >This will open a Google Drive download.
 >It will download as a .zip. It should auto-unzip.
 >You should have `Installer.exe`, and `data.pak` files.
->![[Pasted image 20240530081813.png|350]]
-![[Pasted image 20240530081915.png|250]]
+>![](_attachments/Pastedimage20240530081813.png)
+![](_attachments/Pastedimage20240530081915.png)
 ### 2. Homebrew Install
 Using Terminal: Install Homebrew:  https://brew.sh
 ``` Terminal
@@ -42,7 +42,7 @@ Using Terminal: Install Homebrew:  https://brew.sh
 ```
 
 Press ENTER to continue and agree to the XCode license.
-![[Pasted image 20240530084216.png|400]]
+![](_attachments/Pastedimage20240530084216.png)
 
 >[!Note]
 >Homebrew may ask you to accept an XCode license agreement:
@@ -60,147 +60,147 @@ Using Terminal: Install Whisky: https://github.com/Whisky-App/Whisky
 brew install --cask whisky
 ```
 
-![[Pasted image 20240530084717.png|400]]
+![](_attachments/Pastedimage20240530084717.png)
 
 Open Whisky with either:
 	1. Finder -> Applications -> Whisky
 	2. Spotlight: CMD + Space -> type Whisky
-![[Pasted image 20240530084811.png|50]]
+![](_attachments/Pastedimage20240530084811.png|50]]
 
 > [!info] Note
 > Click `Open` if this dialogue pops up.
-![[Pasted image 20240530084936.png|150]]
+![](_attachments/Pastedimage20240530084936.png)
 
 Click Next to install dependencies.
-![[Pasted image 20240530085310.png|400]]
+![](_attachments/Pastedimage20240530085310.png)
 
 ### 4. Whisky Configuration
 1. Click Create Bottle
-![[Pasted image 20240530085604.png|400]]
+![](_attachments/Pastedimage20240530085604.png)
 
 2. Set the follow settings, then press Create. This may take a while to complete.
 Bottle Name: EdenXI
 Windows Version: Windows 10
 Bottle Path: Leave as default
-![[Pasted image 20240530085637.png|400]]
+![](_attachments/Pastedimage20240530085637.png)
 
 3. Click Winetricks
-![[Pasted image 20240530085827.png|400]]
+![](_attachments/Pastedimage20240530085827.png)
 
 4. Click DLLs -> `dotnet40` -> Run
-![[Pasted image 20240530090032.png|400]]
+![](_attachments/Pastedimage20240530090032.png)
 
 Allow if asked.
-![[Pasted image 20240530090102.png|150]]
+![](_attachments/Pastedimage20240530090102.png)
 
 Check the ToS and Install. This may come up a few times and takes a while to complete.
-![[Pasted image 20240530090149.png|250]]
-![[Pasted image 20240530090409.png|250]]
+![](_attachments/Pastedimage20240530090149.png)
+![](_attachments/Pastedimage20240530090409.png)
 
 ### 5. EdenXI Installation
 Click Run -> Select Installer.exe from the EdenXI download.
-![[Screenshot 2024-05-30 at 10.03.28 AM.png|400]]
+![[Screenshot 2024-05-30 at 10.03.28 AM.png)
 
 Allow if asked.
-![[Pasted image 20240530100827.png|150]]
+![](_attachments/Pastedimage20240530100827.png)
 
 Click Continue on the Eden Installer.
-![[Pasted image 20240530100857.png|250]]
+![](_attachments/Pastedimage20240530100857.png)
 
 Accept the ToS
-![[Pasted image 20240530100923.png|250]]
+![](_attachments/Pastedimage20240530100923.png)
 
 You will see popups as it verifies the dotnet runtime.
-![[Pasted image 20240530100937.png|250]]
+![](_attachments/Pastedimage20240530100937.png)
 
 This may take a while.
-![[Pasted image 20240530101208.png|250]]
+![](_attachments/Pastedimage20240530101208.png)
 
 It should auto-progress to the Install Location when dotnet is done.
 Leave the installation at `C:\Eden`, click Install
-![[Pasted image 20240530112048.png|350]]
+![](_attachments/Pastedimage20240530112048.png)
 
 Wait for the installer to finish
-![[Pasted image 20240530101512.png|250]]
+![](_attachments/Pastedimage20240530101512.png)
 
 Click Finish
-![[Pasted image 20240530102205.png|400]]
+![](_attachments/Pastedimage20240530102205.png)
 
 Verify your folder structure has `Eden` at the root of C:\
-![[Pasted image 20240530113152.png|400]]
+![](_attachments/Pastedimage20240530113152.png)
 ### 6. Whisky/EdenXI Pins Setup
 > [!info] Note: If you see Ashita pinned, right click and Unpin it.
-![[Pasted image 20240530102249.png|250]]
+![](_attachments/Pastedimage20240530102249.png)
 
 1. Create `Config` Pin
 Click the + button to create a new pin called `Config`
 Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FANTASY XI Config.exe`
 Click Pin to confirm.
-![[Screenshot 2024-05-30 at 10.24.16 AM.png|400]]
+![[Screenshot 2024-05-30 at 10.24.16 AM.png)
 
 2. Create `Controller Config` pint
 Click the + button to create a new pin called `Controller Config`
 Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FFXiPadConfig.exe`
 Click Pin to confirm.
-![[Pasted image 20240530102809.png|250]]
+![](_attachments/Pastedimage20240530102809.png)
 
 3. Create the `EdenXI` game launcher pin
 Click the + button to create a new pin called `EdenXI`
 Click Browse and navigate to `Eden/Ashita/ffxi-bootmod/xiloader.exe`
 Click Pin to confirm.
-![[Pasted image 20240530103015.png|400]]
+![](_attachments/Pastedimage20240530103015.png)
 
 Click the Refresh symbol to refresh the Whisky UI and show the icons. You should have the these 3.
-![[Pasted image 20240530103305.png|400]]
+![](_attachments/Pastedimage20240530103305.png)
 
 ### 7. Configure EdenXI Server Hairpin
 
 Right click the `EdenXI` pin and click `Config` 
-![[Pasted image 20240530103358.png|150]]
+![](_attachments/Pastedimage20240530103358.png)
 
 Add to the arguments: `--server play.edenxi.com --hairpin`
 (This tells the launcher to connect to the EdenXI server)
 Then click the Back Arrow.
-![[Pasted image 20240530103437.png|250]]
+![](_attachments/Pastedimage20240530103437.png)
 
 ### 8. EdenXI Window Configuration
 
 Right click and Run the pinned Config
-![[Pasted image 20240530103625.png|150]]
+![](_attachments/Pastedimage20240530103625.png)
 
 Change the window mode to `Windowed mode`
 > [!info] Note: Full Screen mode is not supported.
 
-![[Pasted image 20240530103653.png|250]]
+![](_attachments/Pastedimage20240530103653.png)
 
 Adjust screen size as desired in the Screen Size tab.
-![[Pasted image 20240530112623.png|250]]
+![](_attachments/Pastedimage20240530112623.png)
 
 Click OK and say Yes to save the settings.
-![[Pasted image 20240530103752.png|250]]
+![](_attachments/Pastedimage20240530103752.png)
 
 ### 9. Controller Configuration
 Right Click > Run the Controller Config pin
-![[Pasted image 20240530115955.png|150]]
+![](_attachments/Pastedimage20240530115955.png)
 
 Check the Enable Gamepad box
-![[Pasted image 20240530120101.png|400]]
+![](_attachments/Pastedimage20240530120101.png)
 
 Click Test Gamepad and confirm your controller works.
 Click OK and save changes.
 
-![[Pasted image 20240530120207.png|400]]
+![](_attachments/Pastedimage20240530120207.png)
 ### 10. Playing EdenXI
 1. Right Click the EdenXI pin and click Run
-![[Pasted image 20240530103855.png|100]]
+![](_attachments/Pastedimage20240530103855.png|100]]
 
 The Terminal will open with some options.
 If you see this, you're on the right path. Otherwise, you messed up somewhere.
-![[Pasted image 20240530103932.png|400]]
+![](_attachments/Pastedimage20240530103932.png)
 
 2. Select to create an account or login.
 
 Once logged in the game will launch:
-![[Pasted image 20240530112729.png|400]]
+![](_attachments/Pastedimage20240530112729.png)
 
 > [!info] Note: The audio may be janky.
