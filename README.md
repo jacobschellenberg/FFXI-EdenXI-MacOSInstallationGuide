@@ -14,19 +14,20 @@
 Discord: https://discord.com/invite/S3EAWr2Jec
 
 ## Index
-1. EdenXI Files
-2. Homebrew Install
-3. Whisky Install
-4. Whisky Configuration
-5. EdenXI Installation
-6. Whisky/EdenXI Pins Setup
-7. Configure EdenXI Server Hairpin
-8. EdenXI Window Configuration
-9. Controller Configuration
-10. Playing EdenXI
-11. Dual Boxing
+1. [EdenXI Files](#1-edenxi-files)
+2. [Homebrew Install](#2-homebrew-install)
+3. [Whisky Install](#3-whisky-install)
+4. [Whisky Configuration](#4-whisky-configuration)
+5. [EdenXI Installation](#5-edenxi-installation)
+6. [Whisky/EdenXI Pins Setup](#6-whiskyedenxi-pins-setup)
+7. [Configure EdenXI Server Hairpin](#7-configure-edenxi-server-hairpin)
+8. [EdenXI Window Configuration](#8-edenxi-window-configuration)
+9. [Controller Configuration](#9-controller-configuration)
+10. [Playing EdenXI](#10-playing-edenxi)
+11. [Dual Boxing](#11-dual-boxing)
 
 ---
+
 ### 1. EdenXI Files
 Go to: https://edenxi.com/install, Download the `Alternative Download` files.
 ![](_attachments/Pastedimage20240528112218.png)
