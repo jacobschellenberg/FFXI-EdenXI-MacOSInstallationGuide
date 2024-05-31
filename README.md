@@ -140,7 +140,7 @@ Verify your folder structure has `Eden` at the root of C:\
 Click the + button to create a new pin called `Config`
 Click Browse and navigate to `Eden/Square Enix/FINAL FANTASY XI/ToolsUS/FINAL FANTASY XI Config.exe`
 Click Pin to confirm.
-![[Screenshot 2024-05-30 at 10.24.16 AM.png)
+![](Screenshot2024-05-30at102416AM.png)
 
 2. Create `Controller Config` pint
 Click the + button to create a new pin called `Controller Config`
