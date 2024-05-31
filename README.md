@@ -1,5 +1,3 @@
-> **Guide Version: 1.0**, Last Updated: 5/30/2024
->
 > Tested on MacMini M2 2023, Macbook Air M2 2022
  
 > EdenXI Installation Guide Created By: @DungeonGoat
