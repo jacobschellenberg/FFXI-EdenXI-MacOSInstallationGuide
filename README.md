@@ -200,7 +200,7 @@ Click OK and save changes.
 ![](_attachments/Pastedimage20240530120207.png)
 ### 10. Playing EdenXI
 1. Right Click the EdenXI pin and click Run
-![](_attachments/Pastedimage20240530103855.png|100]]
+![](_attachments/Pastedimage20240530103855.png)
 
 The Terminal will open with some options.
 If you see this, you're on the right path. Otherwise, you messed up somewhere.
