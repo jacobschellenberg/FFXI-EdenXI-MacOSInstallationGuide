@@ -24,6 +24,7 @@ Discord: https://discord.com/invite/S3EAWr2Jec
 8. EdenXI Window Configuration
 9. Controller Configuration
 10. Playing EdenXI
+11. Dual Boxing
 
 ---
 ### 1. EdenXI Files
@@ -206,3 +207,11 @@ Once logged in the game will launch:
 ![](_attachments/Pastedimage20240530112729.png)
 
 > Note: The audio may be janky.
+
+### 11. Dual Boxing
+The current solution to dualboxing is simply creating a second Bottle in Whisky, following all the above steps, and running both instances of EdenXI.
+
+It is recommended to use the same character on the same Bottle every time, otherwise you may lose Macros.
+
+![](_attachments/Dualboxing-02.png)
+![](_attachments/Dualboxing-01.png)
